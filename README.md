@@ -29,7 +29,7 @@
 </ul>
 
 <h2 id="layout">Layout</h2>
-<img alt="Layout APP" src="hhttps://github.com/ravnosbotero/Maratona-Discover/blob/ff68e6782a6077bb6909461eb1ef69ded8cdc96d/assets/Screenshot.png">
+<img alt="Layout APP" src="https://github.com/ravnosbotero/Maratona-Discover/blob/45fc6193603fda2c8faa143e528b3b2bd2a1a469/assets/Screenshot.png">
 
 
 <h2 id="tecnologias">Tecnologias</h2>
