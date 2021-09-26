@@ -1,8 +1,8 @@
 # Maratona-Discover---App-Dev.Finance
 
 <p align="center">
-  <img alt="Maratona Discover" src="https://github.com/ravnosbotero/Maratona-Discover---App-Dev.Finance/assets/logo.svg">
- </p>                
+  <img alt="Maratona Discover" src="https://github.com/ravnosbotero/letmeask/blob/main/src/assets/images/logo.svg">
+ </p>                           
  
  <p align="center">
  <a href="#sobre">Sobre</a> •
