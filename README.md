@@ -1,7 +1,8 @@
 # Maratona-Discover---App-Dev.Finance
 
 <p align="center">
-  <img alt="Maratona Discover" src="https://github.com/ravnosbotero/Maratona-Discover/assets/logo.svg">
+  <img alt="Maratona Discover" src="https://github.com/ravnosbotero/Maratona-Discover/blob/ff68e6782a6077bb6909461eb1ef69ded8cdc96d/assets/logo.svg">
+  
  </p>                           
  
  <p align="center">
@@ -28,7 +29,7 @@
 </ul>
 
 <h2 id="layout">Layout</h2>
-<img src="https://github.com/ravnosbotero/Maratona-Discover---App-Dev.Finance/assets/screenshot.png">
+<img alt="Layout APP" src="hhttps://github.com/ravnosbotero/Maratona-Discover/blob/ff68e6782a6077bb6909461eb1ef69ded8cdc96d/assets/Screenshot.png">
 
 
 <h2 id="tecnologias">Tecnologias</h2>
