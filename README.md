@@ -1,4 +1,4 @@
-# Maratona-Discover---App-Dev.Finance
+# App-Dev.Finance
 
 <p align="center">
   <img alt="Maratona Discover" src="https://github.com/ravnosbotero/Maratona-Discover/blob/ff68e6782a6077bb6909461eb1ef69ded8cdc96d/assets/logo.svg">
